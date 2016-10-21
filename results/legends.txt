@@ -1,0 +1,7 @@
+Legends
+
+VBFM 		-> Variational Bayesian Factorization Machine (Proposed framework)
+OVBFM 		-> Online version of Variational Bayesian Factorization Machine (Proposed framework)
+MCMC-FM 	-> Markov Chain Monte Carlo - Factorization Machine framework
+MCMC-Burin-FM 	-> Markov Chain Monte Carlo - Factorization Machine framework with few burn-in iterations
+SGD-FM 		-> Stocastic Gradient Descent- Factorization Machine framework
