@@ -1,0 +1,4 @@
+File convention xM_y.png
+
+x -> number of samples in training dataset (in Millions)
+y -> dimension of the latent variable
