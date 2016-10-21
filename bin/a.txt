@@ -1,0 +1,69 @@
+----------------------------------------------------------------------------
+libFM
+  Version: 1.4.2
+  Author:  Steffen Rendle, srendle@libfm.org
+  WWW:     http://www.libfm.org/
+This program comes with ABSOLUTELY NO WARRANTY; for details see license.txt.
+This is free software, and you are welcome to redistribute it under certain
+conditions; for details see license.txt.
+----------------------------------------------------------------------------
+In libfm
+Loading train...	
+has x = 1
+has xt = 1
+num_rows=90570	num_values=181140	num_features=2625	min_target=1	max_target=5
+in create data
+Loading test... 	
+has x = 1
+has xt = 1
+num_rows=9430	num_values=18860	num_features=2607	min_target=1	max_target=5
+in create data
+#relations: 0
+Loading meta data...	
+stdev 1
+in fm_learn_init
+check
+in learn of fm_learn_vb
+check in fm_learn_vb_sim
+check in fm_learn_vb_sim
+mu_0_dash 3.52363
+sigma_0 0.1
+sigma_0_dash 1.10412e-05
+#Iter=  0	Train=1.02783	Test=1.1215
+mu_0_dash 3.52636
+sigma_0 0.0805415
+sigma_0_dash -1.18796e-05
+#Iter=  1	Train=1.03992	Test=1.28792
+mu_0_dash 3.49865
+sigma_0 0.0804168
+sigma_0_dash -0.0213589
+#Iter=  2	Train=1.17039	Test=1.19426
+mu_0_dash -0.00173349
+sigma_0 0.0818385
+sigma_0_dash 12.2242
+#Iter=  3	Train=2.76362	Test=2.81985
+mu_0_dash -2.72299e-07
+sigma_0 0.0818049
+sigma_0_dash 12.2242
+#Iter=  4	Train=2.76364	Test=2.81985
+mu_0_dash -0.00246257
+sigma_0 0.0818049
+sigma_0_dash 12.2327
+#Iter=  5	Train=2.76364	Test=2.81985
+mu_0_dash -8.0234e-08
+sigma_0 0.0817478
+sigma_0_dash 12.2328
+#Iter=  6	Train=2.76364	Test=2.81985
+mu_0_dash -0.00700429
+sigma_0 0.0817478
+sigma_0_dash 12.2571
+#Iter=  7	Train=2.76364	Test=2.81985
+mu_0_dash -6.8723e-05
+sigma_0 0.0815853
+sigma_0_dash 12.2574
+#Iter=  8	Train=2.76364	Test=2.81985
+mu_0_dash -1.7651e-06
+sigma_0 0.0815837
+sigma_0_dash 12.2574
+#Iter=  9	Train=2.76364	Test=2.81985
+Final	Train=nan	Test=nan
